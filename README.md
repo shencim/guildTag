@@ -34,4 +34,4 @@ Aşağıda sistemin bazı ekran görüntülerini görebilirsiniz. Belki ileride 
 
 ---
 
-📬 Geri bildirim ve önerilere her zaman açığım. Projeye destek olmak isteyen herkesi beklerim!
+💬 BU SİSTEMİ KULLANABİLMEK İÇİN BU PATLAK BOTCUYA YAZABİLİRSİNİZ `shencim`
