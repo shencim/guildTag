@@ -1,26 +1,37 @@
 # guildTag
-**Herkese Merhabalar Gene Ben Geldim 😊**
+**Selamlar! Yine ben geldim 😊**
 
-## TÜM DİSCORD PİYASASINDA BİR İLK SİZLERLE
-Evet Sizlerinde Bildiğiniz Üzere Son Zamanlarda Popülerleşen Guild Tag Muhabbeti İçin Bir Bot Sistemi Gerektiğini Düşündüm Ve Otistikliğimi Gene Kullandım..
+## 💡 TÜM DİSCORD PİYASASINDA BİR İLK
 
-İşte Karşınızda Bot Tarafından Aynı Sunucu Tagı Gibi Kontroller Sağlayabileceğiniz Sistemler Bu Patlak Botcuda Mevcuttur..
+Son zamanlarda popülerleşen **Guild Tag** için birçok sunucunun ihtiyaç duyduğu bir sistem vardı: Bot Tarafından Yönetilebilen Aynı Server Tag Gibi Görevler Yapabilecek Bir Sistem! İşte tam bu noktada devreye girdim. Otistikliğimi yine konuşturdum ve ortaya bu sistem çıktı. 😄
 
-Bu Sistemi Nerelerde Kullanabileceğinizden Bahsedeyim
+> ⚠️ **BU SİSTEM SELF TOKEN İLE ÇALIŞMAZ!**  
+> Hiçbir şekilde hesap işine girmiyorum. Her şey tamamen **BOT** tarafında gerçekleşiyor.
 
-Yapabilecekleri;
-- Sunucu Tagı Gibi Görev Yapabilir
-- Yetkili Olabilmek İçin Şart Koyulabilir
-- Yetkililerin Bunu Üzerinde Bulundurma Zorunluluğu Ayarlanabilir
-- Gelen Ekipleri Ayırt Edebilmek ve Sunucu İçerisindeki Aktifliklerine Ayrıntılı Bakmaya Yarayabilir
-- Family Rolüne Benzer Şekilde Alan Kişiye Özel Rol Verilebilir
-- Başka Sunucuların Guild Taglarını Sizin Sunucuda Yasaklayabilirsiniz
+Bu sistem sayesinde, sunucunuzda Guild Tag kontrolü üzerinden pek çok özelliği kolayca yönetebilirsiniz.
 
-Yaptığım Sistem İle İlgili Bir Kaç Adet Görseli Sizinle Paylaşmak İstedim Belki İleride Kodunu da Paylaşırım..
+---
 
+## 🎯 Neler Yapabilirsiniz?
 
-![image](https://github.com/user-attachments/assets/e36195e9-16a0-4b76-9174-807ae445d9bb)
+Bot sistemi sayesinde aşağıdaki işlemleri kolayca gerçekleştirebilirsiniz:
+
+- 🔖 Sunucu Tag’ı gibi görev tanımlanabilir  
+- 🛡️ Yetkili olmak için Guild Tag şartı koyulabilir  
+- ⚠️ Yetkililerin tag bulundurma zorunluluğu ayarlanabilir  
+- 👥 Gelen ekipleri tag ile ayırt edebilir ve aktifliklerini izleyebilirsiniz  
+- 🧩 "Family" benzeri özel rol sistemleri kurulabilir  
+- ⛔ Diğer sunucuların Guild Tag’larını yasaklayabilirsiniz  
+
+---
+
+## 🖼️ Sistemden Görseller
+
+Aşağıda sistemin bazı ekran görüntülerini görebilirsiniz. Belki ileride kodlarını da paylaşırım... 😉
+
+![image](https://github.com/user-attachments/assets/e36195e9-16a0-4b76-9174-807ae445d9bb)  
 ![image](https://github.com/user-attachments/assets/92612421-e1d3-47b4-b031-38fa8ffbd95e)
 
+---
 
-
+📬 Geri bildirim ve önerilere her zaman açığım. Projeye destek olmak isteyen herkesi beklerim!
