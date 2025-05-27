@@ -29,7 +29,7 @@ Bot sistemi sayesinde aşağıdaki işlemleri kolayca gerçekleştirebilirsiniz:
 
 Aşağıda sistemin bazı ekran görüntülerini görebilirsiniz. Belki ileride kodlarını da paylaşırım... 😉
 
-![image](https://github.com/user-attachments/assets/e36195e9-16a0-4b76-9174-807ae445d9bb)  
+![image](https://github.com/user-attachments/assets/5dfff79a-c0f9-4b18-8902-3119cb216904)
 ![image](https://github.com/user-attachments/assets/92612421-e1d3-47b4-b031-38fa8ffbd95e)
 
 ---
